@@ -1,0 +1,555 @@
+[
+  {
+    "filename": "cam_1532402927612460.jpg",
+    "description": {
+      "name": "cam_1532402927612460",
+      "description": "**Brief Description:**\n- **Weather:** Clear and sunny.\n- **Time:** Daytime.\n- **Road Environment:** Urban street, multiple lanes.\n- **Ego Lane Position:** Centered in the right lane, facing a straight road ahead.\n\n**Detailed Description:**\n- **Pedestrians:** Some pedestrians are visible in the distance crossing the street at the intersection.\n- **Vehicles:** A large truck is parked on the left with its rear open, possibly unloading. Multiple vehicles are moving ahead on the road in both lanes.\n- **Road Features:** The road is marked with dashed white lines, indicating separate lanes. Orange and white construction barriers are on the right side of the street.\n- **Environment:** The scene is urban with mid-rise buildings along the road. Trees line the street, providing some greenery.\n- **Driving Context:** The road appears to be moderately busy. The intersection traffic lights are visible further ahead. No immediate obstructions in the ego lane, but caution is advised due to the construction barriers and parked truck."
+    }
+  },
+  {
+    "filename": "cam_1532402928112460.jpg",
+    "description": {
+      "name": "cam_1532402928112460",
+      "description": "**Brief Description:**\n\nThe image depicts a clear day scene in an urban environment. The road is divided into multiple lanes with the ego lane being the rightmost lane. There is a large truck parked on the left side of the road.\n\n**Detailed Description:**\n\nThe scene is set during daylight under clear weather conditions. The road is a three-lane urban street with traffic moving smoothly. The ego lane is unobstructed while the leftmost lane is occupied by a parked delivery truck. \n\nSeveral vehicles are visible on the road, including a silver car moving through the middle lane. There are orange and white construction barriers to the right, indicating some roadwork or lane modifications. \n\nA person is observed near the parked truck, likely unloading goods. The surroundings include trees lining the street and modern buildings, adding to the urban atmosphere. Traffic lights are visible in the distance, all green, allowing the vehicles to proceed without stopping. The scene suggests a typical day in a city, with business operations and regular traffic flow."
+    }
+  },
+  {
+    "filename": "cam_1532402928662460.jpg",
+    "description": {
+      "name": "cam_1532402928662460",
+      "description": "**Brief Description:**\n- **Weather:** Clear skies with some clouds, indicating daylight.\n- **Time:** Likely during the day.\n- **Road Environment:** Urban setting with roads divided by orange and white construction barriers.\n- **Ego Lane Position:** The vehicle is in the left lane, approaching an intersection.\n\n**Detailed Description:**\n- **Pedestrians:** A person is on the left, next to a parked truck, likely unloading goods.\n- **Vehicles:** Multiple vehicles are visible; two are ahead traveling in the same direction, with more in the distance.\n- **Road Features:** \n  - Marked lanes with dashed white lines.\n  - Construction barriers along the right side of the road.\n  - Traffic lights are present in the distance.\n- **Environment:** \n  - Urban area with multistory buildings on both sides.\n  - Trees lining the road providing partial shade.\n- **Overall Driving Context:** \n  - The road appears to be under construction or maintenance, requiring cautious driving.\n  - The intersection ahead may necessitate a stop or slowing down due to the visible traffic lights and other vehicles."
+    }
+  },
+  {
+    "filename": "cam_1532402929162460.jpg",
+    "description": {
+      "name": "cam_1532402929162460",
+      "description": "**Brief Description:**\n- **Weather:** Sunny with some clouds.\n- **Time:** Daytime.\n- **Road Environment:** Urban setting with multiple lanes.\n- **Ego Lane Position:** Positioned in the left lane.\n\n**Detailed Description:**\nThe scene depicts a two-lane urban road with a median separating it from oncoming traffic. The area is well-developed, featuring buildings on both sides. On the right side of the image, there are construction barriers indicating ongoing roadwork. Several vehicles are visible on the road, including a silver car in the ego lane and other vehicles further ahead. The traffic lights in the distance are green, allowing for a clear flow of traffic. Trees line the sidewalk, suggesting a landscaped environment. Pedestrians are visible near the intersection, indicating a moderately busy area."
+    }
+  },
+  {
+    "filename": "cam_1532402929662460.jpg",
+    "description": {
+      "name": "cam_1532402929662460",
+      "description": "**Brief Description:**\n\nThe image shows a daytime urban road scene with clear weather. The road environment includes multiple lanes, and the ego vehicle is positioned in the center lane. \n\n**Detailed Description:**\n\nThe scene captures a multi-lane urban street. On the left, there is a row of trees and a sidewalk adjacent to a tall building. The road slightly curves to the left with two lanes: the left lane is occupied by a white car, and the right lane has a black vehicle further ahead. Traffic lights at the intersection in the distance show a green signal. The road surface is smooth, with white lane markings clearly visible. There are orange construction barricades on the right side of the road, indicating ongoing construction work. Buildings are visible on both sides, suggesting a city setting. The traffic appears moderate, with vehicles proceeding smoothly through the intersection."
+    }
+  },
+  {
+    "filename": "cam_1532402930112460.jpg",
+    "description": {
+      "name": "cam_1532402930112460",
+      "description": "**Brief Description:**\n- **Weather:** Clear skies with scattered clouds indicating good weather.\n- **Time:** Daytime, based on the brightness and shadows.\n- **Road Environment:** Urban setting with multiple lanes.\n- **Ego Lane Position:** Positioned in the leftmost lane of a multi-lane road.\n\n**Detailed Description:**\n- **Pedestrians:** Several pedestrians are visible on the sidewalk to the right, near the crosswalk.\n- **Vehicles:** \n  - A white car is directly ahead in the same lane.\n  - Two vehicles are moving in the rightmost lane, possibly turning or continuing straight.\n- **Road Features:**\n  - Traffic lights ahead are green, indicating that vehicles may proceed.\n  - Road markings show lane boundaries and suggest a multi-lane intersection is approaching.\n- **Environment:** \n  - Trees line the street, providing some natural cover.\n  - Buildings are visible on the right, suggesting a commercial area.\n  - Construction indicators, like orange barriers, are present, indicating ongoing work.\n- **Overall Driving Context:** The scene appears to be in an urban area with light to moderate traffic, suggesting the need for attentiveness due to pedestrians and potential construction activities."
+    }
+  },
+  {
+    "filename": "cam_1532402930612460.jpg",
+    "description": {
+      "name": "cam_1532402930612460",
+      "description": "**Brief Description:**\n- **Weather:** Clear and sunny.\n- **Time:** Daytime.\n- **Road Environment:** Urban setting with road construction.\n- **Ego Lane Position:** The vehicle is positioned in the right lane of a divided road.\n\n**Detailed Description:**\nThe scene depicts an urban road environment under clear daytime conditions. There are two lanes visible, with the ego car positioned in the right lane. To the left, there is a construction area cordoned off with orange barriers. Several vehicles are in view, including a white car ahead moving into the left lane, and a dark car on the right lane slightly ahead. \n\nTraffic lights are green in the direction of travel, indicating the road is clear for proceeding. Pedestrians are visible on sidewalks and at a crossing farther ahead to the right. Trees and buildings line both sides of the street, suggesting a well-developed area with moderate traffic. Road markings are clear, and directional arrows guide the lanes."
+    }
+  },
+  {
+    "filename": "cam_1532402931162460.jpg",
+    "description": {
+      "name": "cam_1532402931162460",
+      "description": "**Brief Description:**\n\n- **Weather:** Clear and sunny.\n- **Time:** Daytime.\n- **Road Environment:** Urban setting.\n- **Ego Lane Position:** Positioned in the right-turn lane.\n\n**Detailed Description:**\n\nThe image depicts a city street during the daytime with clear and sunny conditions. There are several vehicles on the road, including a white vehicle in the right-turn lane, closest to the foreground. Additional vehicles are present in adjacent lanes, moving straight. \n\nOn the right side, there is a multi-story building with a green and gray facade. Trees line the road, providing shade in some areas. A traffic light is visible in the distance, currently green for vehicles moving straight. \n\nPedestrians are observed on the sidewalks, with some crossing at a nearby crosswalk. Orange construction barriers are visible on the left, indicating possible ongoing roadwork. Painted arrows on the road guide traffic flow, clearly marking the lanes. The surroundings suggest a well-organized urban infrastructure with maintained roads and pedestrian pathways."
+    }
+  },
+  {
+    "filename": "cam_1532402931662460.jpg",
+    "description": {
+      "name": "cam_1532402931662460",
+      "description": "**Brief Description:**\n- **Weather:** The weather is clear with some clouds.\n- **Time:** The image appears to be taken during daytime.\n- **Road Environment:** Urban setting with multiple lanes.\n- **Ego Lane Position:** Positioned in the left lane with a slight curve to the right.\n\n**Detailed Description:**\n- **Pedestrians:** A group of pedestrians is crossing at the intersection on a designated crosswalk.\n- **Vehicles:** Several vehicles, including a white car in the foreground, are visible. Vehicles are waiting at the intersection, adherent to traffic signals.\n- **Road Features:** The road is divided, with a solid white line and directional arrow indicating a right turn. Traffic lights are present and operational.\n- **Environment:** The area is well-urbanized with buildings on the right side and trees lining the road. Construction barriers on the left suggest ongoing road work.\n- **Overall Driving Context:** The scene is a typical urban intersection with moderate traffic, pedestrians, and clear signage, requiring cautious driving and adherence to traffic signals."
+    }
+  },
+  {
+    "filename": "cam_1532402932162460.jpg",
+    "description": {
+      "name": "cam_1532402932162460",
+      "description": "**Brief Description:**\n\nThe image shows a clear day scene with a few clouds in the sky. It appears to be daytime. The road environment is urban, with construction barriers visible. The ego vehicle is positioned in a lane with an arrow indicating a potential left turn ahead. \n\n**Detailed Description:**\n\nThe image captures a busy urban intersection. There is a white vehicle in front, slightly to the left, likely preparing to follow the lane direction indicated by the arrow. To the right, there is another lane with a vehicle approaching the intersection. \n\nTo the left, there is a construction zone with orange barriers and an excavator visible, suggesting ongoing roadwork. Several pedestrians are visible crossing the street at the crosswalk ahead. The traffic lights are green, allowing vehicles to proceed. \n\nTrees line the road, providing a green canopy, and buildings frame the street on both sides, contributing to the city landscape. The road surface is well-marked, assisting in navigation. Overall, the scene suggests moderate traffic flow and active pedestrian activity."
+    }
+  },
+  {
+    "filename": "cam_1532402932612460.jpg",
+    "description": {
+      "name": "cam_1532402932612460",
+      "description": "**Brief Description:**\n\n- **Weather:** Clear with daylight conditions.\n- **Time:** Daytime.\n- **Road Environment:** Urban intersection.\n- **Ego Lane Position:** Centered in the left-turn lane.\n\n**Detailed Description:**\n\nThe image depicts an urban road scene during the day with clear skies. There is a visible intersection with a green traffic light for vehicles traveling forward. The road has multiple lanes, with one lane designated for left turns, as indicated by road markings. \n\nTo the right, there is a construction area marked by orange barriers and a construction vehicle. Several pedestrians are visible walking on the crosswalk, indicating potential activity at the intersection. The background includes trees and buildings, adding to the urban environment. A white van is positioned in front of the construction site, and various other vehicles are visible in adjacent lanes and crossing the intersection."
+    }
+  },
+  {
+    "filename": "cam_1532402933112460.jpg",
+    "description": {
+      "name": "cam_1532402933112460",
+      "description": "**Brief Description:**\n- **Weather:** Clear with some clouds.\n- **Time:** Daytime.\n- **Road Environment:** Urban intersection with construction.\n- **Ego Lane Position:** Approaching a crosswalk and traffic light.\n\n**Detailed Description:**\nThe scene depicts an urban street intersection with visible construction activity. A white vehicle is in the center, moving towards the intersection where a crosswalk is present. Several pedestrians are walking on the crosswalk from left to right. \n\nThere is construction equipment, specifically an excavator, on the left side of the road, indicating ongoing roadwork. Traffic cones and barriers are set up around the site. The traffic lights are green, allowing vehicles to proceed.\n\nSurrounding the intersection are trees and buildings, providing an urban backdrop. The road is bordered by grass patches and curved curbs, and vehicular traffic is light with a few cars present."
+    }
+  },
+  {
+    "filename": "cam_1532402933612460.jpg",
+    "description": {
+      "name": "cam_1532402933612460",
+      "description": "**Brief Description**:  \nThe image shows a clear day with some clouds, suggesting mild weather conditions. It appears to be daytime. The scene is in an urban road environment with buildings and trees visible. The ego vehicle is positioned correctly in its lane near a pedestrian crossing.\n\n**Detailed Description**:  \nThe scene captures an urban intersection with multiple elements. A white vehicle is at the pedestrian crossing, waiting or moving forward. There are construction barriers and an excavator on the left side of the street, indicating ongoing roadwork. Several pedestrians are waiting or crossing the street on the right side of the image. The traffic light is green, allowing vehicles to proceed. The road is surrounded by buildings, trees, and signage indicating a city environment. The area is adequately bordered with curbs and pathways for pedestrian safety. Traffic seems to be flowing smoothly despite the construction area."
+    }
+  },
+  {
+    "filename": "cam_1532402934112460.jpg",
+    "description": {
+      "name": "cam_1532402934112460",
+      "description": "**Brief Description:**\n\nThe weather is clear with daylight illumination, suggesting daytime conditions. The scene shows a road intersection with ongoing construction. The ego vehicle appears to be on a straight path approaching a crosswalk and a yield sign.\n\n**Detailed Description:**\n\nThe image depicts a busy urban road intersection with clear weather conditions. A white van is visible on the left, heading towards the intersection past a zebra crossing. On the right, there is a traffic light currently green, with pedestrians crossing the street in front of it.\n\nOrange traffic cones and barriers indicate construction work on the road, with machinery and workers in hard hats present. A yield sign is placed near the construction area, guiding vehicles to slow down. Pedestrians are visible, moving in groups across the street.\n\nThe environment is characterized by trees and a large building in the background, contributing to a mix of urban and natural scenery. Traffic flows smoothly, but attention is needed due to the ongoing construction and pedestrian activity."
+    }
+  },
+  {
+    "filename": "cam_1532402934662484.jpg",
+    "description": {
+      "name": "cam_1532402934662484",
+      "description": "**Brief Description:**\n- **Weather:** Clear with some clouds.\n- **Time:** Daytime.\n- **Road Environment:** Urban, under construction.\n- **Ego Lane Position:** Approaching a crosswalk and a construction zone.\n\n**Detailed Description:**\n- **Pedestrians:** A group of pedestrians is crossing the street at a crosswalk from right to left.\n- **Vehicles:** A white vehicle is driving ahead, moving towards the ongoing construction. A truck is parked nearby.\n- **Road Features:** There is a crosswalk in the foreground. Cones and orange barriers indicate a construction area to the right. A \"Give Way\" sign and traffic lights are present.\n- **Environment:** Trees line the road, and a building is visible in the background.\n- **Driving Context:** The driver needs to be cautious of pedestrians and construction activity. The green traffic light indicates permission to proceed, but attention is required."
+    }
+  },
+  {
+    "filename": "cam_1532402935162463.jpg",
+    "description": {
+      "name": "cam_1532402935162463",
+      "description": "**Brief Description:**\n- **Weather:** Clear, sunny conditions.\n- **Time:** Appears to be daytime.\n- **Road Environment:** Urban area with road construction.\n- **Ego Lane Position:** Stopped at a pedestrian crossing.\n\n**Detailed Description:**\n- **Pedestrians:** Several pedestrians are visible on the right, walking on the sidewalk.\n- **Vehicles:** A white minivan is ahead, moving to the left of the image.\n- **Road Features:** The road includes a pedestrian crossing and \"Give Way\" sign ahead.\n- **Construction:** Ongoing roadwork is present, with an excavator and temporary barriers.\n- **Environment:** Surrounded by trees and buildings, indicating an urban setting.\n- **Driving Context:** The driver may need to yield to pedestrians and navigate through construction safely."
+    }
+  },
+  {
+    "filename": "cam_1532402935662460.jpg",
+    "description": {
+      "name": "cam_1532402935662460",
+      "description": "**Brief Description:**\n- **Weather:** Clear skies, daylight.\n- **Time:** Likely daytime, given lighting conditions.\n- **Road Environment:** Urban area with construction work.\n- **Ego Lane Position:** Approaching a construction zone with a specific lane marked.\n\n**Detailed Description:**\n- **Pedestrians:** Construction workers are visible, wearing high-visibility vests and helmets on the right side near the construction area.\n- **Vehicles:** \n  - A white minivan is in the lane ahead, driving towards the construction zone.\n  - Parked construction vehicle (excavator) on the right side behind barriers.\n- **Road Features:** \n  - Traffic control barriers (orange and white) indicate an ongoing construction zone on the right.\n  - A \"Give Way\" sign is visible, suggesting a need to yield, possibly due to merging or upcoming traffic management changes.\n- **Environment:** \n  - Surroundings include trees and a modern building, indicating an urban setting.\n  - Traffic cones are placed as additional indicators of the construction zone.\n- **Overall Driving Context:** The vehicle should proceed with caution, yield as necessary, and adhere to any posted signals for safe navigation through the construction area."
+    }
+  },
+  {
+    "filename": "cam_1532402936162460.jpg",
+    "description": {
+      "name": "cam_1532402936162460",
+      "description": "**Brief Description:**\n\nThe image shows a daylight urban road environment with clear weather. The road is under construction, with the ego vehicle positioned in a lane to the left of construction barriers.\n\n**Detailed Description:**\n\nThe scene depicts a city street during daytime with clear weather conditions. A white vehicle is in the foreground, traveling on a road that curves slightly to the left. To the right, there are orange and white construction barriers separating the active road lane from the construction area. Within the construction zone, an excavator and several workers wearing safety gear are visible. A \"Give Way\" traffic sign is positioned on the right side of the road. Adjacent to the road, there are trees and a large building in the background, indicating an urban environment. Additional vehicles, including a truck, are visible along the side of the road behind the barriers."
+    }
+  },
+  {
+    "filename": "cam_1532402936662460.jpg",
+    "description": {
+      "name": "cam_1532402936662460",
+      "description": "**Brief Description:**\n- **Weather:** Clear and bright.\n- **Time:** Daytime.\n- **Road Environment:** Urban setting with construction activity.\n- **Ego Lane Position:** Left lane, approaching a curved road section.\n\n**Detailed Description:**\nThe image depicts an urban road with active construction work underway. A white vehicle is visible in the left lane, preparing to navigate a curve. To the right of the vehicle, there is a construction site cordoned off by orange and white barriers. An excavator is actively positioned within this area, and a construction worker wearing a safety helmet is present near the barriers. Adjacent to the construction site are two parked trucks. The surrounding environment includes large buildings, trees, and lined traffic cones indicating ongoing roadworks. The scene suggests a need for cautious driving due to construction and potential lane shifts."
+    }
+  },
+  {
+    "filename": "cam_1532402937162460.jpg",
+    "description": {
+      "name": "cam_1532402937162460",
+      "description": "**Brief Description:**\n- **Weather:** Clear, daytime conditions.\n- **Time:** Daytime.\n- **Road Environment:** Urban street under construction.\n- **Ego Lane Position:** Left lane, positioned behind a white vehicle.\n\n**Detailed Description:**\nThe image depicts a two-lane urban road undergoing construction. A white vehicle is in the left lane ahead of the camera, indicating moderate traffic. Roadwork barriers and cones are visible on the right side, narrowing the lane. An orange excavator is positioned on the right side within the construction zone, and nearby is a white truck parked next to the construction area. The road is lined with trees and modern buildings, suggesting an urban setting. The conditions appear to be clear and well-lit, typical of daytime. The scene indicates a need for cautious driving due to the ongoing construction activities."
+    }
+  },
+  {
+    "filename": "cam_1532402937662460.jpg",
+    "description": {
+      "name": "cam_1532402937662460",
+      "description": "**Brief Description:**\n\n- **Weather:** Clear, daylight conditions.\n- **Time:** Appears to be daytime.\n- **Road Environment:** Urban area with ongoing construction.\n- **Ego Lane Position:** Left lane, next to construction site barriers.\n\n**Detailed Description:**\n\nThe image shows an urban street with construction activity. A white vehicle is in the ego lane, aligned on the left side of the road. The lane has construction cones and barriers on the right, indicating ongoing work. A large building and trees are visible in the background. There is also a stopped truck and a construction vehicle visible on the right side of the road, occupying part of the adjacent lane. Traffic appears light, and the area is surrounded by trees and modern architectural structures."
+    }
+  },
+  {
+    "filename": "cam_1532402938162460.jpg",
+    "description": {
+      "name": "cam_1532402938162460",
+      "description": "**Brief Description:**\n- **Weather:** Overcast or partly cloudy with diffused sunlight.\n- **Time:** Daytime.\n- **Road Environment:** Urban area with road construction.\n- **Ego Lane Position:** Positioned behind a white vehicle, on a single-lane road flanked by cones on the right.\n\n**Detailed Description:**\n- **Vehicles:** A white vehicle is directly ahead in the same lane. To the right, on an adjacent road, there is a large truck and a car parked or slowly moving. \n- **Road Features:** The road is undergoing maintenance or construction, indicated by the numerous orange cones and barriers on the right side of the road.\n- **Environment:** The road is lined with trees on the left, providing some shade. Large buildings are visible on the right, suggesting a commercial or industrial area.\n- **Driving Context:** The lane is narrow due to roadwork, requiring careful navigation. There are no visible pedestrians or cyclists. The surroundings suggest a need for caution due to potential construction-related obstacles."
+    }
+  },
+  {
+    "filename": "cam_1532402938612460.jpg",
+    "description": {
+      "name": "cam_1532402938612460",
+      "description": "**Brief Description:**\n- **Weather:** Clear\n- **Time:** Daytime\n- **Road Environment:** Urban street with construction cones\n- **Ego Lane Position:** Vehicle is in the left lane of a two-lane street\n\n**Detailed Description:**\nThe image shows an urban street scene during daytime with clear weather. A white vehicle is positioned in the left lane, close to the sidewalk. The road is divided by two yellow lines, indicating a no-crossing zone. On the right side, there is a row of orange construction cones separating the main street from an adjacent lane, possibly due to ongoing work or lane redirection. A truck is parked in the right lane just past the construction cones.\n\nLush trees line the left side of the street, while modern office buildings with reflective glass facades are on the right, suggesting a commercial district. There are no visible pedestrians, and the traffic appears light. The scene suggests ongoing construction or maintenance work on the right-side lane or sidewalk."
+    }
+  },
+  {
+    "filename": "cam_1532402939112460.jpg",
+    "description": {
+      "name": "cam_1532402939112460",
+      "description": "**Brief Description:**\n\n- **Weather:** Clear, daylight.\n- **Time:** Daytime.\n- **Road Environment:** Urban street with construction cones.\n- **Ego Lane Position:** Behind a white vehicle in the left lane.\n\n**Detailed Description:**\n\nThe image shows a two-lane urban road lined with trees and buildings. Orange traffic cones are placed along the road, suggesting construction or lane adjustment. A white vehicle is directly ahead in the left lane, and a large building is visible on the right. The road appears clear, with a second lane on the right occupied by a parked light truck. No pedestrians are visible. The weather is clear, indicating daytime with good visibility, and the driving conditions seem calm and controlled."
+    }
+  },
+  {
+    "filename": "cam_1532402939662460.jpg",
+    "description": {
+      "name": "cam_1532402939662460",
+      "description": "**Brief Description:**\n\nThe weather appears clear with daylight conditions, suggesting a morning or late afternoon time. The road environment shows a partially constructed area with traffic cones placed along the lanes. The ego vehicle is positioned in a single-lane road behind another white vehicle.\n\n**Detailed Description:**\n\nThe scene depicts an urban road with some construction elements present. Several orange traffic cones are lined up along the edges of the lane, indicating possible construction or lane closure. The road is surrounded by trees on the left and a large building complex on the right. There is a white vehicle directly ahead of the ego vehicle, both traveling in the same direction. The adjacent lane on the right seems to be a separate driving lane, currently blocked by cones. The environment is urban with well-maintained infrastructure, offering limited hazards aside from the construction indicators. No pedestrians or cyclists are visible in the image."
+    }
+  },
+  {
+    "filename": "cam_1532402940162460.jpg",
+    "description": {
+      "name": "cam_1532402940162460",
+      "description": "**Brief Description:**\n\n- **Weather:** Clear, possibly early morning or late afternoon.\n- **Time:** Daytime with natural light.\n- **Road Environment:** Urban setting.\n- **Ego Lane Position:** Behind a stationary white vehicle, adjacent to traffic cones and road markings.\n\n**Detailed Description:**\n\nThe image shows an urban street with a stationary white vehicle in the lane in front. The street is flanked by tall buildings on the right, indicating a developed area. There are trees lining the left side, providing natural shade. Numerous traffic cones are placed along the road, suggesting construction or lane diversion. The road is marked with double yellow lines on the left, indicating a no-parking zone. The environment appears calm with no visible pedestrians or other moving vehicles. The scene suggests careful driving due to potential roadwork or lane restrictions."
+    }
+  },
+  {
+    "filename": "cam_1532402940762460.jpg",
+    "description": {
+      "name": "cam_1532402940762460",
+      "description": "**Brief Description:**\n- **Weather:** Clear and sunny.\n- **Time:** Daytime, likely morning or afternoon.\n- **Road Environment:** Urban setting with a single lane partially blocked by traffic cones.\n- **Ego Lane Position:** Behind a stationary white vehicle on a marked road with adjacent bicycle lane.\n\n**Detailed Description:**\n- **Pedestrians:** None visible.\n- **Vehicles:** A white minivan (Toyota) is stationary in the lane ahead.\n- **Road Features:** \n  - The road is divided by yellow and white lines.\n  - A bicycle lane is visible adjacent to the left side of the vehicle.\n  - Several orange traffic cones are along the right side of the lane, indicating a potential restriction or guidance area.\n- **Environment:** \n  - The scene is surrounded by modern buildings and trees providing shade.\n  - On the right, there is a sidewalk with more traffic cones indicating a possible construction or maintenance area.\n- **Overall Driving Context:**\n  - The vehicle should proceed with caution due to the partially obstructed lane.\n  - The presence of traffic cones suggests adherence to altered traffic flow or temporary lane alignments."
+    }
+  },
+  {
+    "filename": "cam_1532402941262460.jpg",
+    "description": {
+      "name": "cam_1532402941262460",
+      "description": "**Brief Description:**\n\n- **Weather:** Clear, daylight conditions.\n- **Time:** Daytime.\n- **Road Environment:** Urban setting with lane markings and traffic cones.\n- **Ego Lane Position:** Positioned in a marked lane with traffic cones to the right.\n\n**Detailed Description:**\n\nThe image shows a white van in an urban area, parked in a lane bordered by double yellow lines on the left. The road is lined with trees and modern buildings on both sides. Traffic cones are placed along the right side of the lane, indicating some form of road work or lane closure. The area is well-lit, suggesting it is daytime, and the sky appears clear, implying good visibility. There are no visible pedestrians or other vehicles nearby, and the road ahead seems open. The environment suggests one should proceed with caution, adhering to any traffic management signs or markers related to the cones."
+    }
+  },
+  {
+    "filename": "cam_1532402941762460.jpg",
+    "description": {
+      "name": "cam_1532402941762460",
+      "description": "**Brief Description:**\n- **Weather:** Clear, daylight.\n- **Time:** Daytime.\n- **Road Environment:** Urban road with traffic cones indicating construction or lane closure.\n- **Ego Lane Position:** Following another vehicle within a single lane.\n\n**Detailed Description:**\nThe image shows an urban setting with a well-defined road. A white vehicle is immediately ahead in the lane. The road is bordered by sidewalks with greenery on the left and modern buildings on both sides. Numerous orange traffic cones are placed in the right half of the road, indicating possible construction work or lane restrictions. The road appears to be a two-lane stretch, with one lane temporarily blocked by cones. There are no visible pedestrians, and overall traffic seems light, allowing for easy navigation. The environment suggests a typical city street with limited disturbances."
+    }
+  },
+  {
+    "filename": "cam_1532402942162460.jpg",
+    "description": {
+      "name": "cam_1532402942162460",
+      "description": "**Brief Description**:  \nThe image depicts a busy road environment during daylight hours with partly cloudy weather. The ego vehicle is positioned in a single-lane road, closely following a white minivan. Traffic cones are present, indicating possible roadwork or lane restrictions.\n\n**Detailed Description**:  \nThe scene shows a white minivan directly ahead, occupying the lane on a road that appears to be under maintenance or modification, as indicated by the orange traffic cones placed along the lane. The road is moderately narrow, flanked by buildings and trees, suggesting an urban setting. The minivan's brake lights are illuminated, potentially indicating slow-moving or stationary traffic. The lane markings are visible, and the presence of a \"one way\" sign indicates the direction of permitted travel. There are no pedestrians visible, and the overall traffic condition seems to be controlled. The environment is well-lit, suggesting it\u2019s either morning or afternoon."
+    }
+  },
+  {
+    "filename": "cam_1532402942662460.jpg",
+    "description": {
+      "name": "cam_1532402942662460",
+      "description": "**Brief Description:**\n\n- **Weather:** Clear and sunny.\n- **Time:** Daytime.\n- **Road Environment:** Urban street.\n- **Ego Lane Position:** Sitting behind a white vehicle in a single-lane road.\n\n**Detailed Description:**\n\nThe image depicts a clear urban street during daytime with modern buildings on both sides of the road. The weather is sunny, providing visibility of the entire scene. The road is confined by traffic cones, suggesting possible construction or lane closure on the right side. A white vehicle is directly ahead, stopped or moving slowly in the lane. The area is bordered by trees and manicured vegetation, indicating a well-maintained urban environment. A sign indicating the presence of a one-way street is visible on the left. Additional vehicles or pedestrians are not present in the immediate vicinity."
+    }
+  },
+  {
+    "filename": "cam_1532402943162460.jpg",
+    "description": {
+      "name": "cam_1532402943162460",
+      "description": "**Brief Description:**\n- **Weather:** Clear, daylight conditions.\n- **Time:** Appears to be daytime.\n- **Road Environment:** Urban setting with road construction indicators.\n- **Ego Lane Position:** Behind a white vehicle in a single lane.\n\n**Detailed Description:**\nThe image depicts an urban street scene. A white vehicle is directly in front of the camera, positioned in a single lane. The lane is bordered by road construction cones on the right, indicating possible roadwork or lane closures further ahead. The left side of the lane is lined with trees and a sidewalk, featuring a sign with directional arrows. The background consists of modern buildings with reflective surfaces, suggesting a business or commercial area. There are no pedestrians visible, and traffic appears light, given the clear lane ahead. Overall, the scene suggests cautious navigation due to the presence of roadwork."
+    }
+  },
+  {
+    "filename": "cam_1532402943662460.jpg",
+    "description": {
+      "name": "cam_1532402943662460",
+      "description": "**Brief Description:**\n\nThe image shows a daytime scene in an urban road environment with good weather conditions. The road is partially obstructed with a parked white vehicle, and there are construction cones delineating the area. The ego vehicle appears to be positioned close to the left side of the lane.\n\n**Detailed Description:**\n\nIn the image, a white minivan is parked on the left side of a two-lane road. The weather is clear, suggesting good visibility. Multiple orange traffic cones are placed along the right side of the road, indicating possible construction or road maintenance work. The environment appears urban, with buildings and trees flanking the road. There are no visible pedestrians or other vehicles in motion. The road is straight, and the scene suggests caution due to the presence of the cones and the parked vehicle narrowing the driving path."
+    }
+  },
+  {
+    "filename": "cam_1532402944162460.jpg",
+    "description": {
+      "name": "cam_1532402944162460",
+      "description": "**Brief Description:**\n\nThe weather is clear and sunny, indicating daylight conditions. The road is urban with a single lane marked by orange traffic cones, directing traffic around a construction area. The ego vehicle is in its lane, following a white minivan in front.\n\n**Detailed Description:**\n\nThe scene depicts an urban environment with a road curving to the left, flanked by buildings and trees. The road is under construction or maintenance, as evidenced by a line of orange traffic cones stretching along the right side, effectively narrowing the available driving lane. A white minivan is situated directly in front of the ego vehicle, traveling along the same path. There are clear lane markings and signs visible, guiding the flow of traffic. The road surface appears to be in good condition with minimal obstructions aside from the cones. The setting is typical of a city street undergoing mild construction, requiring careful navigation."
+    }
+  },
+  {
+    "filename": "cam_1532402944662460.jpg",
+    "description": {
+      "name": "cam_1532402944662460",
+      "description": "**Brief Description:**\n- **Weather:** Clear, daylight.\n- **Time:** Likely midday, bright lighting.\n- **Road Environment:** Urban setting with clear road markings.\n- **Ego Lane Position:** Near the left side of the road, adjacent to a stationary vehicle.\n\n**Detailed Description:**\n- **Pedestrians:** None visible.\n- **Vehicles:** A white minivan is parked on the left side of the road.\n- **Road Features:** The road is divided by a solid line. Orange cones are placed on the right lane, indicating roadwork or lane closure.\n- **Environment:** The road is lined with trees on both sides, and there are tall buildings in the background.\n- **Overall Driving Context:** Navigating around a temporary obstruction due to road cones might be necessary. The scene requires attention to any upcoming vehicles or directions regarding the cones."
+    }
+  },
+  {
+    "filename": "cam_1532402945162460.jpg",
+    "description": {
+      "name": "cam_1532402945162460",
+      "description": "**Brief Description:**\n\nThe image depicts a daytime urban environment with clear weather. The road has construction cones guiding traffic, and the vehicle is positioned partially off the main lane on the left side.\n\n**Detailed Description:**\n\nThe scene shows a straight urban road with a slight incline, flanked by trees and modern buildings. A white minivan is partially parked on the left curb, encroaching onto the main road. Several construction cones are placed along the road, indicating a temporary lane division, possibly for ongoing maintenance or construction activities. The road is lined with barriers on the left, suggesting restricted areas. The visibility is good, with natural light illuminating the scene, and there are no pedestrians or other vehicles immediately in the visible path. This suggests a relatively low traffic volume at this time."
+    }
+  },
+  {
+    "filename": "cam_1532402945662460.jpg",
+    "description": {
+      "name": "cam_1532402945662460",
+      "description": "**Brief Description:**\n- **Weather:** Clear conditions with daylight.\n- **Time:** Daytime.\n- **Road Environment:** Urban street.\n- **Ego Lane Position:** Slightly to the left, adjacent to a parked vehicle.\n\n**Detailed Description:**\n- **Pedestrians:** None visible.\n- **Vehicles:** A white van is parked on the left side of the road.\n- **Road Features:** The road is undergoing some form of construction or maintenance, indicated by multiple orange traffic cones channeling vehicles to the right. There are clear lane markings.\n- **Environment:** The street is lined with trees on both sides, and there are buildings adjacent to the road.\n- **Traffic Signs:** A sign indicates a pedestrian crossing area, which is visible near the left sidewalk.\n- **Driving Context:** The lane is partially obstructed with cones guiding traffic into the right lane. Extra caution is required for navigating through the construction zone."
+    }
+  },
+  {
+    "filename": "cam_1532402946262460.jpg",
+    "description": {
+      "name": "cam_1532402946262460",
+      "description": "**Brief Description:**\n\n- **Weather:** Cloudy or overcast.\n- **Time:** Daytime.\n- **Road Environment:** Urban street with construction cones.\n- **Ego Lane Position:** Left side of a two-lane road.\n\n**Detailed Description:**\n\nThe scene depicts an urban street environment with a focus on a two-lane road. The road is lined with orange construction cones, indicating a potential road work area, especially on the right lane. To the left side of the image, there is a parked white vehicle, a minivan, positioned partially on the road. Surrounding infrastructure includes tall buildings and greenery, with trees positioned along both sides of the street.\n\nThere are signs present on the sidewalk indicating pedestrian crossings, and the road is bordered by temporary barriers. A bicycle is visible, secured to a pole near the walkway. Overall, the area appears to be part of a managed traffic zone with clear indicators for road users. No pedestrians are seen in the immediate roadway."
+    }
+  },
+  {
+    "filename": "cam_1532402946762460.jpg",
+    "description": {
+      "name": "cam_1532402946762460",
+      "description": "**Brief Description:**\n\nThe image shows a cloudy day with bright lighting. The scene is an urban street setting. The road has one visible lane with traffic cones, indicating a lane diversion or construction. The ego vehicle is positioned near the center of the lane.\n\n**Detailed Description:**\n\nThe image depicts a city environment with a road flanked by tall buildings and trees. A white vehicle is parked on the left side of the road. Along the sidewalk, there are bicycles and barriers. Traffic cones on the right indicate a potential lane closure or construction work, directing vehicles in a controlled manner. Signage is evident, instructing pedestrians to use a crossing. The road is smooth and appears to be clean, with clear markings. There are no pedestrians or other moving vehicles visible in the scene. Overall, the traffic is minimal, allowing for easy navigation through the street."
+    }
+  },
+  {
+    "filename": "cam_1533151603512404.jpg",
+    "description": {
+      "name": "cam_1533151603512404",
+      "description": "**Brief Description:**\n\n- **Weather:** Partly cloudy with diffuse sunlight.\n- **Time:** Daytime.\n- **Road Environment:** Urban setting.\n- **Ego Lane Position:** Approaching an intersection.\n\n**Detailed Description:**\n\nThe image depicts a city intersection with a mix of pedestrian and vehicular activity. The road is wide, divided by double yellow lines indicating a two-way street. Traffic signals are positioned above the intersection, currently displaying a red light. Multiple vehicles are present, with a few waiting at the intersection.\n\nPedestrians are visible on the sidewalks, some crossing the street and others walking along the building fronts. Prominent buildings on both sides feature mostly brick facades with several windows. Commercial establishments, including a Starbucks, are observable.\n\nTrees and streetlamps line the sidewalks, enhancing the urban landscape. A large structure with the word \"Hood\" is present on the left, adding to the neighborhood's distinctive character. The environment suggests a busy but orderly urban area with active foot and vehicular traffic."
+    }
+  },
+  {
+    "filename": "cam_1533151604012404.jpg",
+    "description": {
+      "name": "cam_1533151604012404",
+      "description": "**Brief Description:**\n\n- **Weather:** Partly cloudy.\n- **Time:** Daytime.\n- **Road Environment:** Urban setting.\n- **Ego Lane Position:** Center of the lane, approaching an intersection.\n\n**Detailed Description:**\n\nThe image shows an urban street scene with brick buildings on both sides. The road has two lanes with double yellow lines separating traffic in each direction. There is a crosswalk at the intersection. Several pedestrians are visible on the sidewalks on both sides of the street, including a few near the crosswalk. \n\nVehicles are waiting at the intersection ahead, with one black car in the right lane and a white car ahead in the left lane. The traffic lights at the intersection are red, indicating stopped traffic. Trees are visible along the sidewalks, providing some greenery in the urban environment. The scene suggests a typical city block with moderate pedestrian and vehicle activity."
+    }
+  },
+  {
+    "filename": "cam_1533151604512404.jpg",
+    "description": {
+      "name": "cam_1533151604512404",
+      "description": "**Brief Description:**\n- **Weather:** Partly cloudy\n- **Time:** Daytime\n- **Road Environment:** Urban city street\n- **Ego Lane Position:** Center of the lane, approaching an intersection\n\n**Detailed Description:**\nThe image shows an urban street with red brick buildings on both sides. There is a traffic light at the intersection ahead, currently showing a yellow light. Multiple pedestrians are visible on the sidewalks to the right and left, with some walking in groups and others standing. The street is lined with parallel parked cars on the right. Two vehicles are ahead at the intersection, a black car and a white car, both waiting at the light. Crosswalks are clearly marked at the intersection. The scene is well-lit, indicating it is daytime with partly cloudy skies. Overall, it depicts a typical city driving environment with moderate pedestrian activity."
+    }
+  },
+  {
+    "filename": "cam_1533151605012404.jpg",
+    "description": {
+      "name": "cam_1533151605012404",
+      "description": "**Brief Description:**\n\nThe image depicts a clear day with cloudy skies. The road environment is urban, featuring multiple brick buildings lining the street. The ego lane is well-positioned in the center of a two-way street, facing a green traffic light.\n\n**Detailed Description:**\n\nThe scene is set in an urban area with several pedestrians visible on the sidewalks, indicating moderate foot traffic. Buildings, predominantly brick, line both sides of the street, suggesting a potentially historic or commercial district. The road is a two-way street with clearly marked double yellow lines in the center.\n\nSeveral vehicles, including a black car, are present on the road, adhering to traffic signals. The traffic light ahead is green, allowing vehicles to proceed. A crosswalk is visible with pedestrians waiting to cross, emphasizing the need for caution. The weather is clear, although clouds are visible, suggesting partially cloudy conditions. Overall, the driving context is straightforward with a focus on pedestrian safety and maintaining lane discipline."
+    }
+  },
+  {
+    "filename": "cam_1533151605512404.jpg",
+    "description": {
+      "name": "cam_1533151605512404",
+      "description": "**Brief Description:**\n\n- **Weather:** Partly cloudy, daytime.\n- **Time:** Likely late morning or early afternoon.\n- **Road Environment:** Urban setting with multiple lanes and crosswalks.\n- **Ego Lane Position:** Stopped at an intersection, first in line.\n\n**Detailed Description:**\n\nThe scene depicts an urban street lined with brick buildings on both sides. The road is straight and consists of multiple lanes. A traffic light hangs overhead showing a red light for the ego vehicle. There is a pedestrian crosswalk in front of the vehicle. Several cars are visible parked along the street and a few are moving through the intersection. \n\nOn the left sidewalk, a person stands near the crosswalk. On the right side, there are multiple pedestrians walking. The road sign indicates a one-way street. The overall environment suggests a bustling city area, with moderate vehicle and foot traffic."
+    }
+  },
+  {
+    "filename": "cam_1533151606012404.jpg",
+    "description": {
+      "name": "cam_1533151606012404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast with diffused sunlight.\n- **Time:** Likely daytime.\n- **Road Environment:** Urban setting with multi-story brick buildings.\n- **Ego Lane Position:** Centered in a two-lane road approaching an intersection.\n\n**Detailed Description:**\nThe image shows an urban street scene with a two-lane road surrounded by multi-story brick buildings on both sides. The road is clearly marked with white lane lines and a pedestrian crosswalk at the foreground. Several vehicles are present, mostly parked along the sides of the road, with a few moving in the lane heading away from the camera. The traffic light overhead displays a red signal, indicating vehicles need to stop. There are pedestrians on the sidewalks to the right, and some appear to be crossing the street. The environment is urban with a mixture of residential and commercial buildings, suggesting a city center or business district. The visibility is clear, though the sky is overcast, contributing to even, diffused lighting across the scene."
+    }
+  },
+  {
+    "filename": "cam_1533151606512404.jpg",
+    "description": {
+      "name": "cam_1533151606512404",
+      "description": "**Brief Description:**\n- **Weather:** Cloudy.\n- **Time:** Daytime.\n- **Road Environment:** Urban street with buildings on both sides.\n- **Ego Lane Position:** Positioned at an intersection, facing forward.\n\n**Detailed Description:**\nThe scene depicts an urban street lined with brick buildings on both sides. The road is two lanes wide with clear yellow lane markings. There are multiple vehicles parked along the sides and a few cars actively traveling in both directions. A traffic signal is visible overhead, currently showing yellow, indicating a transition phase. Pedestrians are present on the sidewalks, including one person with a stroller to the left. The street is clean and well-maintained with signage indicating a bus lane on the right. Overall, the setting suggests a typical city environment during the day."
+    }
+  },
+  {
+    "filename": "cam_1533151607012404.jpg",
+    "description": {
+      "name": "cam_1533151607012404",
+      "description": "**Brief Description:**\n\nThe image depicts a cloudy day in an urban setting, likely during daylight hours. The road is a two-lane street lined with parked cars on both sides. The ego lane is positioned in the left lane of the two available lanes.\n\n**Detailed Description:**\n\nThe scene shows a city street with brick buildings on both sides. The road has two lanes with vehicles traveling in both directions. A silver car is stopped in front of the camera in the left lane, waiting at a traffic light, which is currently red. The right lane is marked as a bus lane. Several other vehicles are parked along the curbs. Pedestrians are visible on the sidewalks, and the road appears to be clean and dry. No immediate obstructions are present in the lane, and visibility is clear despite the overcast weather conditions."
+    }
+  },
+  {
+    "filename": "cam_1533151607512404.jpg",
+    "description": {
+      "name": "cam_1533151607512404",
+      "description": "**Brief Description:**\n- **Weather:** Partly cloudy with sunlight.\n- **Time:** Daytime.\n- **Road Environment:** Urban area with buildings flanking both sides.\n- **Ego Lane Position:** Center of a two-way street with a double yellow line marking.\n\n**Detailed Description:**\nThe image depicts an urban street scene with multi-story brick buildings on both sides. The road is a two-way street marked by a double yellow line in the center. There is a \"BUS\" lane marked on the right side of the road. Several vehicles are parked along the curb on both sides, and a few vehicles are moving ahead in the same direction as the camera view. Pedestrians are present, with one person walking on the sidewalk on the left and another near the entrance of a building on the right. The sky is partly cloudy, allowing a moderate amount of light to illuminate the scene. The area appears to be a downtown or city setting with active daily activities."
+    }
+  },
+  {
+    "filename": "cam_1533151608012404.jpg",
+    "description": {
+      "name": "cam_1533151608012404",
+      "description": "**Brief Description:**\n\nThe scene appears to depict a city road environment during the daytime with cloudy weather. The vehicle is positioned in the center of its lane, which is flanked by buildings on both sides.\n\n**Detailed Description:**\n\nThe image shows an urban street lined with mid-rise brick buildings on either side. The road is straight and marked with double yellow lines indicating a two-way street. Several vehicles are ahead, moving in the same direction, and parked cars line both sides of the street. There are pedestrians visible on the sidewalks, and the road appears to be in good condition. A streetlight and traffic signs are present, and the sky is overcast, suggesting cloudy weather conditions without precipitation. The environment is consistent with a typical cityscape, with no immediate obstructions for the driver."
+    }
+  },
+  {
+    "filename": "cam_1533151608512404.jpg",
+    "description": {
+      "name": "cam_1533151608512404",
+      "description": "**Brief Description:**\n\n- **Weather:** Overcast, with likely diffused sunlight.\n- **Time:** Appears to be daytime.\n- **Road Environment:** Urban setting with multiple lanes and parked cars.\n- **Ego Lane Position:** Centered in a single lane going straight, near a bus lane on the right.\n\n**Detailed Description:**\n\nThe image captures an urban street scene with tall brick buildings lining both sides of the road. The street is straight and features two driving lanes with a clear double-yellow line separating directions. A line of parked cars is visible on both sides of the street.\n\nThere are several vehicles moving in the forward direction, including a couple of sedans. A black SUV is turning left across the lane just ahead of the ego vehicle. A bus lane is marked on the right side, partially occupied by a silver vehicle near the sidewalk.\n\nPedestrians are present on the sidewalks, with one individual walking nearby on the right. The weather conditions appear overcast but conducive to clear visibility. The scene conveys a typical urban environment with moderate traffic and pedestrian activity."
+    }
+  },
+  {
+    "filename": "cam_1533151609012404.jpg",
+    "description": {
+      "name": "cam_1533151609012404",
+      "description": "**Brief Description:**\n\n- **Weather**: Overcast, no precipitation.\n- **Time**: Daytime.\n- **Road Environment**: Urban setting with multi-story brick buildings.\n- **Ego Lane Position**: Centrally positioned in its lane, approaching an intersection.\n\n**Detailed Description:**\n\nThe image depicts an urban street scene with overcast weather conditions, minimizing shadows. The road is lined with tall brick buildings on both sides, with a visible intersection ahead. \n\nThere are several vehicles on the road, including cars traveling in both directions and parked along the curbs. A black SUV is entering from a side street on the left, while multiple vehicles are moving down the main street. The road has double yellow centerlines, indicating two-way traffic.\n\nOn the right side of the street, there is a dedicated bus lane. Pedestrians are visible on both sidewalks, suggesting moderate foot traffic. The environment appears typical of a bustling city area, indicating the driver should be vigilant for both pedestrians and vehicles entering or exiting from the side streets."
+    }
+  },
+  {
+    "filename": "cam_1533151609512404.jpg",
+    "description": {
+      "name": "cam_1533151609512404",
+      "description": "**Brief Description:**\n\nThe weather appears overcast, suggesting it's daytime. The road environment is urban with multi-story brick buildings on either side. The ego vehicle is positioned in the left lane of a two-lane, two-way street.\n\n**Detailed Description:**\n\nThe scene depicts a city street lined with mid-rise brick buildings. Vehicles are parked along both sides of the road. There is a silver car parked in a bus zone on the right. A black SUV is entering the intersection from a side street on the left. Pedestrians are visible on the sidewalks, indicating typical urban activity. The road is marked with a double yellow line separating the two lanes in opposite directions. Traffic appears light, and the street ahead is clear, allowing for smooth travel."
+    }
+  },
+  {
+    "filename": "cam_1533151609912404.jpg",
+    "description": {
+      "name": "cam_1533151609912404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast\n- **Time:** Daytime\n- **Road Environment:** Urban setting\n- **Ego Lane Position:** Center of an unobstructed lane\n\n**Detailed Description:**\nThe image depicts an urban street lined with multi-story brick buildings on both sides. The sky is overcast, indicating it is a cloudy day. The road features two distinct yellow lines in the center, separating the two directions of traffic. A vehicle is seen entering from a side street on the left. Several parked cars are along both sides of the street. Pedestrians are visible on the sidewalks, and there are street lamps, trees, and traffic signs enhancing the urban environment. The road ahead is clear for the ego vehicle."
+    }
+  },
+  {
+    "filename": "cam_1533151610412404.jpg",
+    "description": {
+      "name": "cam_1533151610412404",
+      "description": "**Brief Description:**\n\n- **Weather**: Overcast\n- **Time**: Daytime\n- **Road Environment**: Urban street with brick buildings\n- **Ego Lane Position**: Center of the lane\n\n**Detailed Description:**\n\nThe image depicts a two-lane urban street lined with brick buildings on both sides. Several parked vehicles are situated along the roadside. The weather appears overcast, suggesting diffused daylight conditions. \n\nA black SUV is maneuvering from a side parking spot on the left side of the street. Ahead, multiple vehicles are moving or stationary within their lanes. Pedestrians can be observed on the sidewalks, which are separated from the street by parked cars.\n\nStreet signs are visible at intersections, enhancing navigational context. The roadway is clear with yellow center lines marking lane divisions. The environment suggests a typical city street with moderate activity, and the conditions appear safe for driving."
+    }
+  },
+  {
+    "filename": "cam_1533151610912404.jpg",
+    "description": {
+      "name": "cam_1533151610912404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast or cloudy.\n- **Time:** Daytime.\n- **Road Environment:** Urban street with buildings on both sides.\n- **Ego Lane Position:** Centered in a single lane with two-way traffic indicated by double yellow lines.\n\n**Detailed Description:**\nThe image depicts an urban street scene with brick buildings lining both sides. There is moderate traffic, with vehicles parked along the curb on both sides. A black SUV is turning across the lane in the foreground. The street is straight and extends further into the background, flanked by closely packed buildings. There are a few pedestrians visible on the sidewalks. The road surface is dry, and the sky is overcast, suggesting cloudy weather conditions. Traffic appears to be moving smoothly, with no significant obstructions or congestion."
+    }
+  },
+  {
+    "filename": "cam_1533151611412404.jpg",
+    "description": {
+      "name": "cam_1533151611412404",
+      "description": "**Brief Description:**\n\n- **Weather:** Overcast or cloudy with diffused light.\n- **Time:** Daytime.\n- **Road Environment:** Urban setting with buildings on both sides.\n- **Ego Lane Position:** Vehicle is situated on a wide, two-lane street with a visible yellow centerline.\n\n**Detailed Description:**\n\n- **Pedestrians:** One visible pedestrian on the left sidewalk.\n- **Vehicles:** Multiple vehicles parked along both sides of the street. A black SUV is making a left turn across the lane, and a silver sedan is parked on the right curb. A white car is seen in the distance traveling down the road.\n- **Road Features:** Two-lane road with clear yellow centerlines. Sidewalks are present on both sides.\n- **Environment:** Brick buildings with multiple stories line both sides of the road, contributing to a typical urban street. Trees and a red public phone box are visible along the right sidewalk.\n- **Overall Driving Context:** The driver should be cautious of the black SUV crossing the lane, maintain awareness of parked cars and potential pedestrians, and proceed straight when clear."
+    }
+  },
+  {
+    "filename": "cam_1533151611862404.jpg",
+    "description": {
+      "name": "cam_1533151611862404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast\n- **Time:** Daytime\n- **Road Environment:** Urban street with multi-story brick buildings\n- **Ego Lane Position:** Centered on a two-way street\n\n**Detailed Description:**\nThe image shows an urban street flanked by multi-story brick buildings on both sides. The weather appears overcast, with diffused daylight. The road is a two-way street, with one visible lane in each direction. A black SUV is making a left turn across the intersection, partially blocking the left lane. Several parked cars line both sides of the street, with a silver sedan closest to the camera on the right. A pedestrian is visible on the left sidewalk. The environment indicates moderate traffic activity typical of an urban setting. Signage and streetlights are present, contributing to the organized traffic management of the area."
+    }
+  },
+  {
+    "filename": "cam_1533151612362404.jpg",
+    "description": {
+      "name": "cam_1533151612362404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast\n- **Time:** Daytime\n- **Road Environment:** Urban street with buildings on both sides\n- **Ego Lane Position:** Center of a two-way street\n\n**Detailed Description:**\n- **Pedestrians:** One pedestrian visible on the right side sidewalk.\n- **Vehicles:** A black SUV is making a turn, crossing the ego vehicle's path. Several parked cars line both sides of the street.\n- **Road Features:** Asphalt road with slight markings visible. Trees and street signs are present along the sidewalks.\n- **Environment:** Urban environment with multi-story brick buildings, indicative of a city setting.\n- **Overall Driving Context:** Low traffic with one moving vehicle (the SUV) turning, requiring attention for safe passage. The scene is typical of a city street with parking and commercial/residential buildings."
+    }
+  },
+  {
+    "filename": "cam_1533151612862404.jpg",
+    "description": {
+      "name": "cam_1533151612862404",
+      "description": "**Brief Description**:  \nThe image depicts an urban street environment during daylight hours. The weather appears overcast, and the road is dry. The vehicle is positioned in the center lane, navigating through moderate traffic in a city setting.\n\n**Detailed Description**:  \nThe scene features a city street lined with multi-story brick buildings on both sides. The road is two-way with vehicles parked alongside the curb. There is moderate traffic with a black SUV maneuvering slightly towards the center. Pedestrians are visible on the left sidewalk, indicating an active area. Trees are planted intermittently along the sidewalks. Street signs and signals are present, and the overall environment suggests a typical cityscape with business or residential buildings. Visibility is clear despite the cloudy sky, with no apparent hazards."
+    }
+  },
+  {
+    "filename": "cam_1533151613362404.jpg",
+    "description": {
+      "name": "cam_1533151613362404",
+      "description": "**Brief Description:**\n\nThe image depicts an urban street scene in daylight with overcast weather. The road is lined with buildings on both sides, and the ego vehicle is positioned centrally in its lane, moving along a two-lane street.\n\n**Detailed Description:**\n\nThe scene shows a city street with medium traffic. Several vehicles are present on the road, including a black SUV directly in front of the ego vehicle and a silver sedan approaching from the opposite direction. The street is lined with brick buildings, and the area appears to be a commercial or mixed-use district. There are parked cars along both sides of the street. The road is marked with a double yellow line, indicating a two-way street. Sidewalks are present on both sides, with pedestrians visible on the left sidewalk. Street signs and utility poles are also visible, enhancing the typical urban environment. Overall, the setting indicates routine city driving conditions."
+    }
+  },
+  {
+    "filename": "cam_1533151613912404.jpg",
+    "description": {
+      "name": "cam_1533151613912404",
+      "description": "**Brief Description:**\n\n- Weather: Overcast\n- Time: Daytime\n- Road Environment: Urban street with buildings on both sides\n- Ego Lane Position: Center left of a two-lane road\n\n**Detailed Description:**\n\nThe image depicts an urban street scene with overcast skies suggesting cloudy weather conditions. The road is a two-lane street flanked by tall brick buildings typical of a city environment. Trees are visible alongside the sidewalk, providing partial cover.\n\nSeveral vehicles are present, with a black car directly ahead in the ego lane, maintaining a reasonable distance. Another silver sedan is driving in the opposite direction on the left side of the road. Several parked cars line both sides of the street, indicating a busy urban setting.\n\nPedestrians and cyclists are not prominently visible, but the infrastructure includes bike racks suggesting accommodation for bicycles. The street is clean, with no immediate visible hazards or obstructions. Traffic appears moderate, allowing for smooth flow at the current moment.\n\nOverall, the driving context is a typical urban environment with standard road conditions and clear lane markings."
+    }
+  },
+  {
+    "filename": "cam_1533151614412404.jpg",
+    "description": {
+      "name": "cam_1533151614412404",
+      "description": "**Brief Description:**\n\n- **Weather:** Overcast with diffused daylight.\n- **Time:** Daytime.\n- **Road Environment:** Urban street with buildings lining both sides.\n- **Ego Lane Position:** Center of the lane, proceeding straight.\n\n**Detailed Description:**\n\nThe image depicts an urban street scene with multi-story brick buildings on both sides of the road. The street features two visible lanes marked by a double yellow line in the center. Traffic is light, with a black vehicle directly ahead and another silver vehicle moving in the opposite direction. Multiple parked cars line both sides of the street.\n\nStreet signs and lamp posts are visible on the sidewalk, and some pedestrians are present, mainly near the parked bicycles on the left. The road appears to be smooth and dry. The overall environment suggests a typical city block with moderate activity. The visible weather conditions imply an overcast day, contributing to even lighting across the scene."
+    }
+  },
+  {
+    "filename": "cam_1533151614912404.jpg",
+    "description": {
+      "name": "cam_1533151614912404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast, dry conditions.\n- **Time:** Daytime, likely midday from light conditions.\n- **Road Environment:** Urban street with multiple buildings.\n- **Ego Lane Position:** Center of the lane heading straight.\n\n**Detailed Description:**\n- **Pedestrians:** A few pedestrians visible on the sidewalk to the right.\n- **Vehicles:** \n  - Several parked vehicles lining both sides of the street.\n  - A black vehicle traveling ahead in the same lane.\n  - A silver car partially visible entering from the left.\n- **Road Features:**\n  - Double yellow line marking the center of the road.\n  - Road sign indicating \u201cSleeper St\u201d on the right.\n- **Environment:**\n  - Urban setting with large brick buildings on both sides of the street.\n  - Bicycle rack on the left sidewalk.\n- **Overall Driving Context:** \n  - Moderate urban traffic conditions with clear visibility.\n  - Potential for pedestrian crossing requires cautious driving."
+    }
+  },
+  {
+    "filename": "cam_1533151615412404.jpg",
+    "description": {
+      "name": "cam_1533151615412404",
+      "description": "**Brief Description:**\n\n- **Weather:** Overcast skies\n- **Time:** Daytime\n- **Road Environment:** Urban street\n- **Ego Lane Position:** Centered in a two-lane road\n\n**Detailed Description:**\n\nThe image depicts an urban street scene with overcast sky conditions, suggesting diffused daylight. The road is a two-lane, one-way street with marked yellow lines dividing the lanes. The vehicle is positioned centrally in its lane, driving straight ahead.\n\nBoth sides of the street are lined with multi-story brick buildings featuring numerous windows, typical of an urban environment. Cars are parked along both curbs, and there is a bike rack visible on the left side. \n\nThere are a few pedestrians on the right sidewalk, and several vehicles are seen in motion ahead. The street sign indicates it is at the intersection with Sleeper Street. Trees are planted intermittently along the sidewalks, adding some greenery to the urban landscape. The overall context is city driving with moderate traffic and pedestrian presence."
+    }
+  },
+  {
+    "filename": "cam_1533151615912404.jpg",
+    "description": {
+      "name": "cam_1533151615912404",
+      "description": "1. **Brief Description**:\n   - **Weather**: Clear or slightly overcast.\n   - **Time**: Daytime.\n   - **Road Environment**: Urban street with multi-story brick buildings.\n   - **Ego Lane Position**: Centered in a two-way street with visible lane markings.\n\n2. **Detailed Description**:\n   - **Pedestrians**: One pedestrian visible on the right sidewalk.\n   - **Vehicles**: Multiple parked cars on both sides of the street; one vehicle is driving ahead in the lane.\n   - **Road Features**: Two-way road with a double yellow line; clearly marked lane. No obstructions in the lane.\n   - **Environment**: Urban setting with large brick buildings lining the street. Bicycles are parked along the left sidewalk. Green trees are visible, adding a touch of greenery to the urban environment.\n   - **Overall Driving Context**: The road appears to be clear and suitable for normal driving. Urban setting may require caution for pedestrian activity and parked vehicles potentially pulling into traffic."
+    }
+  },
+  {
+    "filename": "cam_1533151616412404.jpg",
+    "description": {
+      "name": "cam_1533151616412404",
+      "description": "**Brief Description:**\n- **Weather:** Cloudy, likely daytime.\n- **Time:** Appears to be mid-day.\n- **Road Environment:** Urban setting, two-lane street.\n- **Ego Lane Position:** Centered within the right lane.\n\n**Detailed Description:**\nThe image depicts an urban street flanked by tall brick buildings on both sides. The road is two lanes with a clear double yellow line in the center, indicating a two-way street. Vehicles are parked along both sides, with a few cars visible moving ahead in the distance. There is moderate pedestrian activity on the sidewalks, with some people visible near the buildings and others crossing at a distance. A bike rack is situated on the left side near the sidewalk. Streetlamps and trees line the sidewalk, adding to the urban aesthetic. The visibility is good, despite the cloudy weather, allowing for clear observation of the surroundings."
+    }
+  },
+  {
+    "filename": "cam_1533151616912404.jpg",
+    "description": {
+      "name": "cam_1533151616912404",
+      "description": "**Brief Description:**\n- **Weather:** Clear, with some clouds visible.\n- **Time:** Daytime.\n- **Road Environment:** Urban street with buildings on both sides.\n- **Ego Lane Position:** Centered in a two-way street with clear lane markings.\n\n**Detailed Description:**\n- **Pedestrians:** One pedestrian visible on the right sidewalk.\n- **Vehicles:** Several parked vehicles on both sides of the street and a few moving in the same direction as the camera.\n- **Road Features:** The road has two lanes, marked by a double yellow line in the center. Sidewalks are present on both sides.\n- **Environment:** The scene is urban, flanked by brick buildings and trees lining the sidewalks. Bicycles are parked on the left side within designated areas. A prominent building is visible further down the street.\n- **Driving Context:** The road is straight, clear, and suitable for smooth driving through a developed urban area."
+    }
+  },
+  {
+    "filename": "cam_1533151617362404.jpg",
+    "description": {
+      "name": "cam_1533151617362404",
+      "description": "**Brief Description:**\n\n- **Weather:** Overcast with diffused daylight.\n- **Time:** Appears to be daytime.\n- **Road Environment:** Urban setting with buildings on both sides.\n- **Ego Lane Position:** Central in a two-way street, marked by double yellow lines.\n\n**Detailed Description:**\n\nThe image depicts an urban street scene with multi-story buildings flanking both sides of the road. The street is one-way, moving towards the horizon, indicated by the presence of double yellow lines in the center. Vehicles are parked along both sides of the street, with a combination of sedans, compact cars, and a delivery truck visible. \n\nThere is a bike rental station on the left sidewalk, indicating the availability of bicycles for public use. A pedestrian is seen walking on the right sidewalk, suggesting a presence of foot traffic. Trees line the sidewalks, providing some greenery amidst the urban architecture. \n\nThe sky is overcast, contributing to a calm daylight scene without harsh shadows. The far end of the street is dominated by a modern-looking building with a slightly industrial touch, blending into the cityscape. Overall, the environment suggests a typical city street with moderate activity."
+    }
+  },
+  {
+    "filename": "cam_1533151617912404.jpg",
+    "description": {
+      "name": "cam_1533151617912404",
+      "description": "**Brief Description:**\n\n- **Weather:** Overcast with diffused daylight.\n- **Time:** Daytime.\n- **Road Environment:** Urban street.\n- **Ego Lane Position:** Center of the lane, moving straight.\n\n**Detailed Description:**\n\n- **Pedestrians:** A few pedestrians visible on the sidewalks, one walking on the right side.\n- **Vehicles:** Multiple parked vehicles line both sides of the street. A black vehicle is moving ahead in the ego lane. Several other vehicles are visible in the distance along the road.\n- **Road Features:** The street has marked double yellow lines indicating a two-way road, with no median.\n- **Environment:** The scene is urban, with large brick buildings on both sides. A row of bicycles is seen on the left sidewalk.\n- **Driving Context:** The road appears clear for continued forward movement, with enough space within the lane. Caution is advised for potential pedestrian crossings."
+    }
+  },
+  {
+    "filename": "cam_1533151618412404.jpg",
+    "description": {
+      "name": "cam_1533151618412404",
+      "description": "## Brief Description\n\n- **Weather**: Clear with some clouds\n- **Time**: Daytime\n- **Road Environment**: Urban street\n- **Ego Lane Position**: Centered in a single lane\n\n## Detailed Description\n\nThe image depicts an urban street scene. Both sides of the road are lined with multi-story brick and glass buildings. There are parked vehicles along either side of the street, including cars and a white van. \n\nIn the center of the road, a mid-sized black vehicle is driving ahead. Several bicycles are docked on the left side, possibly a bike-sharing station. \n\nThe sky is partially cloudy, indicating clear weather conditions suitable for driving. Visibility appears good with no obstructions in the lane. The street is marked by double yellow lines, designating it as a two-way road. There are no visible pedestrians in the immediate vicinity. The perspective suggests a straight route ahead with no immediate turns or intersections visible."
+    }
+  },
+  {
+    "filename": "cam_1533151618912404.jpg",
+    "description": {
+      "name": "cam_1533151618912404",
+      "description": "**Brief Description:**\n\n- **Weather:** Cloudy with bright conditions.\n- **Time:** Daytime.\n- **Road Environment:** Urban street, two-way traffic.\n- **Ego Lane Position:** Center of the right lane in a two-lane road.\n\n**Detailed Description:**\n\nThe image depicts a straight urban street with multistory buildings on both sides, suggesting a city setting. The weather appears cloudy, but with enough daylight for clear visibility. The road has two lanes, one for each direction, separated by a double yellow line.\n\nSeveral vehicles are parked along both sides of the street. In the middle lane, a few vehicles are driving away from the camera, including a black SUV. A cyclist is visible near the left sidewalk, riding alongside a white van parked halfway across a bicycle rental station.\n\nPedestrian activity is minimal, indicating low foot traffic at this moment. The surrounding buildings are in good condition, primarily composed of brick and glass, suggesting they are commercial or office spaces. The overall traffic flow appears smooth, with no immediate obstacles or disruptions in the driving path."
+    }
+  },
+  {
+    "filename": "cam_1533151619412404.jpg",
+    "description": {
+      "name": "cam_1533151619412404",
+      "description": "**Brief Description:**\n\nThe image shows an urban street environment during daylight with clear weather. The road is a two-way street with the ego vehicle positioned in the center of its lane.\n\n**Detailed Description:**\n\nThe scene depicts a straight urban street, bordered by multi-story brick and glass buildings on both sides. Parked vehicles line both curbs, suggesting a commercial or residential area. A cyclist is visible on the left side of the road, moving toward the camera. Several vehicles, including a black SUV, can be seen driving ahead. The road features double yellow lines, indicating a no-passing zone and separating opposing traffic directions. The sky is mostly clear with some clouds, indicating good visibility conditions. The driving context is urban with potential pedestrian and cyclist interactions."
+    }
+  },
+  {
+    "filename": "cam_1533151619912458.jpg",
+    "description": {
+      "name": "cam_1533151619912458",
+      "description": "**Brief Description:**\n\n- **Weather:** Clear to partly cloudy.\n- **Time:** Daytime.\n- **Road Environment:** Urban street.\n- **Ego Lane Position:** Centered in lane, marked by double yellow lines.\n\n**Detailed Description:**\n\nThe image depicts an urban street scene with multiple-story buildings flanking both sides. The road is a two-way street with double yellow lane markings. Numerous parked vehicles line the sides of the street, both on the left and right. Visible are various types of vehicles, including vans and SUVs.\n\nA cyclist is observed on the left side of the image, moving away from the camera view. In the middle distance, a few vehicles are traveling down the street. The architectural style is consistent with an urban area, featuring tall brick buildings and some with modern exteriors.\n\nTraffic and pedestrian density appear moderate, and the visibility is good, with no apparent obstructions on the road."
+    }
+  },
+  {
+    "filename": "cam_1533151620412404.jpg",
+    "description": {
+      "name": "cam_1533151620412404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast skies.\n- **Time:** Daytime.\n- **Road Environment:** Urban street with dense building structures on both sides.\n- **Ego Lane Position:** Centered in the right lane of a two-lane road.\n\n**Detailed Description:**\nThe image depicts an urban street flanked by multi-story brick and concrete buildings. The sky is mostly cloudy, suggesting it\u2019s an overcast day. There are vehicles parked along both sides of the street, including a white van on the left. The road has two lanes, with visible yellow center lines indicating a two-way street. Traffic is light, with a few cars moving ahead. There is a pedestrian crossing sign visible on the right, but no pedestrians are currently in view. The street is straight and unobstructed, leading towards a larger building complex in the distance. Overall, the scene suggests a typical urban environment with moderate traffic and clear road conditions."
+    }
+  },
+  {
+    "filename": "cam_1533151621012404.jpg",
+    "description": {
+      "name": "cam_1533151621012404",
+      "description": "**Brief Description:**\n- **Weather:** Clear with some clouds.\n- **Time:** Appears to be daytime.\n- **Road Environment:** Urban setting with a straight road.\n- **Ego Lane Position:** Center of a two-lane road.\n\n**Detailed Description:**\nThe image shows an urban street scene with overcast skies, suggesting clear weather. The road is a two-lane street with yellow center lines. Buildings flank both sides of the street, indicating a city environment. Vehicles are parked along both sides, and several moving vehicles are visible on the road. There is a mix of commercial and residential architecture. No pedestrians are visible, but a pedestrian crossing sign is present on the right. Traffic appears moderate and well-organized, with the ego vehicle positioned centrally in the lane."
+    }
+  },
+  {
+    "filename": "cam_1533151621412404.jpg",
+    "description": {
+      "name": "cam_1533151621412404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast\n- **Time:** Daytime\n- **Road Environment:** Urban street\n- **Ego Lane Position:** Centered in the lane\n\n**Detailed Description:**\nThe scene shows an urban street with mid-rise buildings flanking both sides. The sky is overcast, indicating cloudy weather. There is moderate traffic with vehicles parked on both sides of the street and a few vehicles moving ahead. The road has two visible lanes, marked with double yellow lines. Sidewalks are present on each side, and there is a pedestrian crossing sign on the right. The visibility is clear, and the environment appears to be a busy city center. No pedestrians are visible on the street, and the vehicle is positioned well in the center lane."
+    }
+  },
+  {
+    "filename": "cam_1533151621912404.jpg",
+    "description": {
+      "name": "cam_1533151621912404",
+      "description": "**Brief Description**:\n\n- **Weather**: Overcast or cloudy.\n- **Time**: Daytime.\n- **Road Environment**: Urban street.\n- **Ego Lane Position**: Positioned centrally in the lane.\n\n**Detailed Description**:\n\nThe image depicts an urban street scene with multi-story brick and glass buildings on both sides. The road has a single-lane configuration in each direction, separated by double yellow lines indicating a two-way street. Several vehicles are parked along the curb on both sides, with a few moving in the traffic lane. The streets have light to moderate traffic with a black car approaching in the opposite lane. A pedestrian crossing sign is visible on the right side, but no pedestrians are present in the immediate vicinity. The overall driving context is straightforward with clear visibility and no immediate obstacles."
+    }
+  },
+  {
+    "filename": "cam_1533151622412404.jpg",
+    "description": {
+      "name": "cam_1533151622412404",
+      "description": "**Brief Description:**\n- **Weather:** Overcast or cloudy conditions.\n- **Time:** Daytime, diffuse lighting suggesting mid-day.\n- **Road Environment:** Urban street.\n- **Ego Lane Position:** Centered in a two-way street with no visible lane markings aside from the double yellow line.\n\n**Detailed Description:**\n- **Pedestrians:** None visible in the immediate roadway; potential pedestrian activity noted near sidewalk areas.\n- **Vehicles:** Several vehicles are parked along both sides of the street. A few vehicles are visible ahead, traveling in both directions.\n- **Road Features:** The street has a double yellow line indicating a no-passing zone. Buildings line both sides, suggesting a commercial or mixed-use district.\n- **Environment:** Tall buildings create a corridor, possibly impacting visibility. A pedestrian crossing sign is visible on the right, indicating potential pedestrian activity.\n- **Driving Context:** The environment suggests lower speed limits typical of urban settings. Drivers should be cautious of pedestrians, parked cars, and potential turns or stops."
+    }
+  },
+  {
+    "filename": "cam_1533151622912404.jpg",
+    "description": {
+      "name": "cam_1533151622912404",
+      "description": "**Brief Description:**\n\n- **Weather:** Overcast with diffused lighting.\n- **Time:** Daytime.\n- **Road Environment:** Urban street with two lanes, one in each direction.\n- **Ego Lane Position:** Center of the right lane.\n\n**Detailed Description:**\n\nThe image depicts an urban street flanked by multi-story brick and modern buildings on both sides. The road is lined with parked vehicles, including SUVs and sedans, on both sides. There is a double yellow centerline separating both lanes. In the distance, a few vehicles are seen traveling along the road, and the street appears clear of pedestrians. The weather is overcast, suggesting diffused lighting conditions. Traffic signs and signals, such as pedestrian crossing signs, are visible along the sidewalk. The road surface appears dry and in good condition, suitable for normal driving."
+    }
+  }
+]
